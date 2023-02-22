@@ -1,6 +1,6 @@
+import 'package:notes_c/features/feature_note/data/models/note_model.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import '../models/note.dart';
 
 class NotesDatabase {
   NotesDatabase._init();
